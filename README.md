@@ -1,7 +1,5 @@
 # FS-App-Template
-
-I can push this to master?
-
+ This is the new feature
 ## Setup
 
 To use this as boilerplate, you'll need to take the following steps:
